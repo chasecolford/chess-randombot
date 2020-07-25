@@ -1,0 +1,7 @@
+tensorflow==2.1.0
+pillow==6.2.1
+python-chess==0.31.3
+mss==6.0.0 
+PyAutoGUI==0.9.50
+opencv-python==4.3.0.36
+numpy==1.19.1
