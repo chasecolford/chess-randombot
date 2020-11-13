@@ -1,4 +1,4 @@
-tensorflow==2.1.0
+tensorflow==2.3.1
 pillow==7.2.0
 python-chess==0.31.3
 mss==6.0.0 
