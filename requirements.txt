@@ -4,4 +4,4 @@ python-chess==0.31.3
 mss==6.0.0 
 PyAutoGUI==0.9.50
 opencv-python==4.3.0.36
-numpy==1.19.1
+numpy==1.22.0
